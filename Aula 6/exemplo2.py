@@ -1,0 +1,1 @@
+#Crie um programa que pede o nome e 4 notas de um aluno. Calcule a média do aluno e exiba se esse aluno foi Aprovado, Reprovado ou está de Recuperação.
